@@ -5,8 +5,8 @@ Stored by Git Large File Storage (LFS).
 The annotation tool is [Vatic](https://github.com/jinyanzi/vatic.git) with a little modification of data format.
 
 Authors:  
-Yanzi Jin (yjin25@uic.edu)  
-Jakob Eriksson (jakob@uic.edu)  
+[Yanzi Jin](https://www.cs.uic.edu/Bits/YanziJin) (yjin25@uic.edu)  
+[Jakob Eriksson](https://www.cs.uic.edu/bin/view/Jakob/WebHome) (jakob@uic.edu)  
 Computer Science Department  
 University of Illinois at Chicago
 
