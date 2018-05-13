@@ -19,6 +19,8 @@ object_id x y width height frame_id if_lost if_occluded if_interpolated label
 , where `if_interpolated` comes from the annotation tool and may not be useful.
 
 
+traj_visualizer directory contains C++ visualization code for ground truth visualization.
+
 To use this dataset, please cite the paper [Fully Automatic, Real-Time Vehicle Tracking for Surveillance Video](https://github.com/bitslab/IDOT_dataset/blob/master/tracker_CRV17.pdf) 
 ```
 @article{yanziVehicleTracker, 
